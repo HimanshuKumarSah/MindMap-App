@@ -60,6 +60,9 @@ The app will start at [http://localhost:3000](http://localhost:3000).
 
 ### 📷 Screenshots
 
+![Untitled](https://github.com/user-attachments/assets/8ceb512d-30d5-4dc8-921d-464066b75934)
+![Untitled](https://github.com/user-attachments/assets/43838c73-e098-4acb-b4c4-673b3764303a)
+
 
 ---
 
