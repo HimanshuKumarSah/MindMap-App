@@ -11,8 +11,6 @@ An interactive mind mapping tool built with **React** and **React Flow**, allowi
 * Add tags and view them in both the node and sidebar
 * Modern, clean UI with pastel themes and a grid background
 
-![Screenshot](screenshot.png) <!-- Add your screenshot here -->
-
 ---
 
 ### 🚀 Features
@@ -62,9 +60,6 @@ The app will start at [http://localhost:3000](http://localhost:3000).
 
 ### 📷 Screenshots
 
-*(Replace with your actual screenshots)*
-![Mind Map Example](screenshot1.png)
-![Sidebar Example](screenshot2.png)
 
 ---
 
